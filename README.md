@@ -1,0 +1,2 @@
+# versionjusepe
+blog personal
